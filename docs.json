@@ -51,22 +51,22 @@
         "tab": "O Makeru",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "O nás",
             "pages": [
-              "index",
-              "quickstart",
-              "development"
+              "o-makeru/o-nas/proc-maker",
+              "o-makeru/o-nas/jak-podporujeme-tvurce",
+              "o-makeru/o-nas/kontaktujte-nas"
             ]
           },
           {
-            "group": "Customization",
+            "group": "Bezpečnost a důvěra",
             "pages": [
               "essentials/settings",
               "essentials/navigation"
             ]
           },
           {
-            "group": "Writing content",
+            "group": "Pravidla a podmínky",
             "pages": [
               "essentials/markdown",
               "essentials/code",
@@ -75,7 +75,7 @@
             ]
           },
           {
-            "group": "AI tools",
+            "group": "Novinky a aktualizace",
             "pages": [
               "ai-tools/cursor",
               "ai-tools/claude-code",
