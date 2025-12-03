@@ -53,9 +53,7 @@
           {
             "group": "sdfsdf",
             "pages": [
-              "indexx",
-              "quickstart",
-              "development"
+              "api-reference/introduction"
             ]
           },
           {
