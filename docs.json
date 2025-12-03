@@ -48,10 +48,10 @@
         ]
       },
       {
-        "tab": "Guides",
+        "tab": "Začínáme",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "Začínáme",
             "pages": [
               "index",
               "quickstart",
