@@ -219,13 +219,13 @@
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "mailto:zakaznici@maker.cz"
       }
     ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "label": "Zpět na Maker",
+      "href": "https://www.maker.cz"
     }
   },
   "contextual": {
