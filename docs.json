@@ -212,8 +212,8 @@
     }
   },
   "logo": {
-    "light": "/logo/light.png",
-    "dark": "/logo/dark.svg"
+    "light": "/logo/maker_light.svg",
+    "dark": "/logo/maker_dark.svg"
   },
   "navbar": {
     "links": [
