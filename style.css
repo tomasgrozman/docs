@@ -1,12 +1,11 @@
-/* Změna barvy tlačítka v navigaci */
-/* Cílíme konkrétně na odkaz, který vede na Maker */
-.navbar a[href="https://www.maker.cz"] {
-    background-color: #0000FF !important; /* Zde dejte svou barvu */
-    color: white !important; /* Barva textu */
-    border: none !important;
+/* Změna barvy tlačítka podle ID */
+#topbar-cta-button {
+    background-color: #fff !important; /* ZDE si dejte svou barvu */
+    color: #FFFFFF !important;            /* Barva textu */
+    border-color: #fff !important;     /* Barva rámečku (pokud tam je) */
 }
 
-/* Efekt při najetí myší (hover) - volitelné */
-.navbar a[href="https://www.maker.cz"]:hover {
-    opacity: 0.9;
+/* Změna barvy při najetí myší (volitelné) */
+#topbar-cta-button:hover {
+    opacity: 0.8;
 }
