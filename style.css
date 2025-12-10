@@ -1,8 +1,8 @@
 /* Změna barvy tlačítka podle ID */
 #topbar-cta-button {
-    background-color: #ddd !important; /* ZDE si dejte svou barvu */
-    color: #ddd !important;            /* Barva textu */
-    border-color: #ddd !important;     /* Barva rámečku (pokud tam je) */
+    background-color: #ffasdf !important; /* ZDE si dejte svou barvu */
+    color: #ffasdf !important;            /* Barva textu */
+    border-color: #ffasdf !important;     /* Barva rámečku (pokud tam je) */
 }
 
 /* Změna barvy při najetí myší (volitelné) */
