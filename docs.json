@@ -80,7 +80,9 @@
           },
           {
             "group": "Správa produktů",
-            "pages": []
+            "pages": [
+              "prodej/sprava-produktu/jak-pridat-prvni-produktu"
+            ]
           },
           {
             "group": "Správa objednávek",
