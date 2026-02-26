@@ -4,11 +4,25 @@
   "name": "Mint Starter Kit",
   "colors": {
     "primary": "#fb5229",
-    "light": "#07C983",
+    "light": "#fb5229",
     "dark": "#15803D"
   },
   "favicon": "/favicon.svg",
   "navigation": {
+    "global": {
+      "anchors": [
+        {
+          "anchor": "Proč vzninkul Maker?",
+          "icon": "book-open-cover",
+          "href": "https://mintlify.com/docs"
+        },
+        {
+          "anchor": "Jak vybíráme prodejce?",
+          "icon": "newspaper",
+          "href": "https://maker.com/jak-vybirame-prodejce"
+        }
+      ]
+    },
     "tabs": [
       {
         "tab": "O Makeru",
@@ -123,7 +137,8 @@
       },
       {
         "tab": "Prodej",
-        "groups": [
+        "pages": [
+          "o-makeru/o-nas/test",
           {
             "group": "Getting started",
             "pages": [
@@ -195,21 +210,7 @@
           }
         ]
       }
-    ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Proč vzninkul Maker?",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
-        },
-        {
-          "anchor": "Jak vybíráme prodejce?",
-          "href": "https://maker.com/jak-vybirame-prodejce",
-          "icon": "newspaper"
-        }
-      ]
-    }
+    ]
   },
   "logo": {
     "light": "/logo/maker_light.svg",
