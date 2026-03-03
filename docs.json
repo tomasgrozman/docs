@@ -76,7 +76,11 @@
         "groups": [
           {
             "group": "Jak se stát prodejcem",
-            "pages": []
+            "pages": [
+              "prodej/jak-se-stat-prodejcem/vyber-prodejcu",
+              "prodej/jak-se-stat-prodejcem/jak-vytvorit-prodejni-ucet",
+              "prodej/jak-se-stat-prodejcem/nastaveni-obchodu"
+            ]
           },
           {
             "group": "Správa produktů",
@@ -86,7 +90,9 @@
           },
           {
             "group": "Správa objednávek",
-            "pages": []
+            "pages": [
+              "prodej/sprava-objednavek/prijeti-objednavky"
+            ]
           }
         ]
       }
