@@ -29,23 +29,38 @@
         "groups": [
           {
             "group": "O nás",
-            "pages": []
+            "pages": [
+              "o-makeru/o-nas/nase-mise",
+              "o-makeru/o-nas/kontaktujte-nas"
+            ]
           },
           {
             "group": "Bezpečnost a důvěra",
-            "pages": []
+            "pages": [
+              "o-makeru/bezpecnost-a-duvera/ochrana-osobnich-udaju",
+              "o-makeru/bezpecnost-a-duvera/nahlaseni-nevhodneho-obsahu",
+              "o-makeru/bezpecnost-a-duvera/jak-overujeme-prodejce"
+            ]
           },
           {
             "group": "Pravidla a podmínky",
-            "pages": []
+            "pages": [
+              "o-makeru/pravidla-a-podminky/podminky-uzivani-platformy"
+            ]
           },
           {
             "group": "Zapojte se",
-            "pages": []
+            "pages": [
+              "o-makeru/zapojte-se/jak-navrhnout-nove-funkce",
+              "o-makeru/zapojte-se/kariera-v-makeru",
+              "o-makeru/zapojte-se/zanechte-zpetnou-vazbu"
+            ]
           },
           {
             "group": "Novinky a aktualizace",
-            "pages": []
+            "pages": [
+              "o-makeru/novinky-a-aktulalizce/novinky-v-makeru"
+            ]
           }
         ]
       },
@@ -54,11 +69,17 @@
         "groups": [
           {
             "group": "Registrace",
-            "pages": []
+            "pages": [
+              "zaciname/registrace/jak-se-registrovat",
+              "zaciname/registrace/jak-obnovit-zapomenute-heslo",
+              "zaciname/registrace/nastaveni-profilu"
+            ]
           },
           {
             "group": "Nastavení účtu",
-            "pages": []
+            "pages": [
+              "zaciname/nastaveni-uctu/jak-pridat-profilovou-fotku"
+            ]
           }
         ]
       },
@@ -67,7 +88,10 @@
         "groups": [
           {
             "group": "První nákup",
-            "pages": []
+            "pages": [
+              "nakupovani/prvni-nakup/jak-pridat-produkt-do-kosiku",
+              "nakupovani/prvni-nakup/vypocet-ceny-dopravy"
+            ]
           }
         ]
       },
