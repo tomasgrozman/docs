@@ -71,14 +71,20 @@
             "group": "Registrace",
             "pages": [
               "zaciname/registrace/jak-se-registrovat",
-              "zaciname/registrace/jak-obnovit-zapomenute-heslo",
-              "zaciname/registrace/nastaveni-profilu"
+              "zaciname/registrace/jak-obnovit-zapomenute-heslo"
             ]
           },
           {
             "group": "Nastavení účtu",
             "pages": [
-              "zaciname/nastaveni-uctu/jak-pridat-profilovou-fotku"
+              "zaciname/nastaveni-uctu/jak-upravit-osobni-udaje",
+              "zaciname/nastaveni-uctu/jak-spravovat-fakturacni-adresy"
+            ]
+          },
+          {
+            "group": "Nastavení profilu",
+            "pages": [
+              "zaciname/nastaveni-profilu/jak-pridat-profilovou-fotku"
             ]
           }
         ]
