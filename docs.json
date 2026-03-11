@@ -27,6 +27,7 @@
       {
         "tab": "O Makeru",
         "pages": [
+          "uvod",
           {
             "group": "O nás",
             "pages": [
@@ -61,8 +62,7 @@
             "pages": [
               "o-makeru/novinky-a-aktulalizce/novinky-v-makeru"
             ]
-          },
-          "uvod"
+          }
         ]
       },
       {
